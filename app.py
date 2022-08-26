@@ -26,7 +26,7 @@ def foo():
     return t + data
 
 if __name__ == "__main__":
-# Port 監聽8088，並啟動除錯模式。
+# Port 監聽8088，並啟動除錯模式。test
     app.run(debug=True)
     
     
